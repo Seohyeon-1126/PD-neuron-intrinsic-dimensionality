@@ -1,13 +1,6 @@
 # PD-neuron-intrinsic-dimensionality
 Code for Intrinsic dimensionality of deep learning representations reveals cell death associated heterogeneity in Parkinson’s disease iPSC-derived neurons
 
-
-# PD Latent Geometry
-
-Code accompanying the manuscript:
-
-"XXXX XXXX XXXX"
-
 ## Overview
 
 This repository contains code for analysing latent
